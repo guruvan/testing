@@ -2,4 +2,4 @@ FROM shastafareye/bash
 
 COPY . /
 
-CMD  echo Hello
+CMD  /app/start.sh
