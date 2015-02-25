@@ -1,7 +1,4 @@
 testing
 =======
 
-test
-edit
-edi2
-edit moar
+mostly for testing services
