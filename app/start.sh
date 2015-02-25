@@ -1,2 +1,3 @@
 #!/bin/bash -x
-echo "Hello"
+test -f /bin/bash && echo "Hello"
+
